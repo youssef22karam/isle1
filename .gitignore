@@ -1,0 +1,19 @@
+# Generated wholes: rebuilt from their .parts by tools/reassemble.mjs
+REPORT.md
+src/fx/Spray.js
+src/islands/gen/geology.js
+src/islands/gen/hydrology.js
+src/islands-main.js
+src/ocean/Breakers.js
+src/ocean/ShoreWaves.js
+src/ocean/WakeSim.js
+src/ocean/WaterMaterial.js
+src/sky/Clouds.js
+src/world/Terrain.js
+src/world/TerrainData.js
+src/world/boat/Wheelhouse.js
+
+node_modules
+dist
+tidewater-islands.html
+.DS_Store

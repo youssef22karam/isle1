@@ -1,0 +1,1 @@
+{"dependencies":{"three":"file:./vendor/three-stub"},"devDependencies":{"vite":"^8.3.0","vite-plugin-singlefile":"^2.3.3"},"name":"tidewater-islands","private":true,"scripts":{"build":"vite build","dev":"vite","prebuild":"node tools/reassemble.mjs","predev":"node tools/reassemble.mjs","prepreview":"node tools/reassemble.mjs","preview":"vite preview"},"type":"module"}
