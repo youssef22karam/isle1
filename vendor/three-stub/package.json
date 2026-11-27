@@ -1,0 +1,1 @@
+{"name":"three","version":"0.0.0-stub","description":"Stub for island29 hydrology.js: only BufferGeometry/Float32BufferAttribute are imported, and they are used solely by buildFreshwaterGeometry, which the terrain generator (kn) never calls.","type":"module","main":"index.js","exports":{".":"./index.js"}}
